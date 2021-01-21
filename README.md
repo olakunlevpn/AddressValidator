@@ -24,4 +24,15 @@ use olakunlevpn\AddressValidator\Validation;
 $validator = Validation::make('BTC');
 var_dump($validator->validate('1QLbGuc3WGKKKpLs4pBp9H6jiQ2MgPkXRp'));
 
-```"# AddressValidator" 
+````
+
+
+Returns a boolean indicating if the address is valid or not.
+
+## Return
+
+```
+bool(true) //valid wallet address
+
+bool(false) //invalid wallet address
+```
