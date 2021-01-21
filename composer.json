@@ -1,0 +1,27 @@
+{
+  "name": "olakunlevpn/address-validator",
+  "description": "A simple but the best PHP cryptocurrency address validator",
+  "license": "MIT",
+  "keywords": [
+    "bitcoin",
+    "litecoin",
+    "address"
+  ],
+  "authors": [
+    {
+      "name": "olakunlevpn",
+      "email": "olakunlevpn@live.com",
+      "homepage": "http://www.maylancer.org",
+      "role": "Developer :)"
+    }
+  ],
+ "require": {},
+    "require-dev": {},
+    "autoload": {
+        "psr-4": {
+            "olakunlevpn\\AddressValidator\\": "src"
+        }
+    },
+
+  "minimum-stability": "stable"
+}
