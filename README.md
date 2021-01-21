@@ -22,7 +22,7 @@ composer require olakunlevpn/address-validator
 use olakunlevpn\AddressValidator\Validation;
 
 $validator = Validation::make('BTC');
-var_dump($validator->validate('1QLbGuc3WGKKKpLs4pBp9H6jiQ2MgPkXRp'));
+var_dump($validator->validate('3B7WN6x3Z54UC94E224hMFpo2cUUACgTUK'));
 
 ````
 
