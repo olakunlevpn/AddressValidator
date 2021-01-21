@@ -1,3 +1,9 @@
+[![Packagist Stable Version](https://img.shields.io/packagist/v/olakunlevpn/address-validator.svg?style=flat-square&label=stable)](https://packagist.org/packages/olakunlevpn/address-validator)
+[![Packagist downloads](https://img.shields.io/packagist/dt/olakunlevpn/address-validator.svg?style=flat-square)](https://packagist.org/packages/olakunlevpn/address-validator)
+[![GPL Software License](https://img.shields.io/badge/license-GPL-blue.svg?style=flat-square)](LICENSE.md)
+
+
+
 # Cryptocurrency AddressValidator
 
 Easy to use PHP Bitcoin and Litecoin address validator.
