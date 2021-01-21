@@ -5,6 +5,12 @@ One day I will add other crypto currencies. Or how about you? :)
 
 ## Usage
 
+```
+composer require olakunlevpn/address-validator
+
+```
+
+## Then.. 
 
 ```php
 use olakunlevpn\AddressValidator\Validation;
